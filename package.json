@@ -1,11 +1,11 @@
 {
-  "name": "lighthouse-ci",
+  "name": "lighthouseci",
   "version": "1.0.0",
   "main": "bin/cli",
   "license": "MIT",
   "private": false,
   "bin": {
-    "lighthouse-ci": "bin/cli"
+    "lighthouseci": "bin/cli"
   },
   "scripts": {
     "dev": "webpack --mode development --watch",
